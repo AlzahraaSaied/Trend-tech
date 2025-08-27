@@ -33,7 +33,7 @@
     "redux-persist": "^6.0.0",
     "swiper": "^11.1.9",
     "vite-plugin-svgr": "^4.2.0",
-    "vite-tsconfig-paths": "^4.3.1",
+    "vite-tsconfig-paths": "^4.3.1"
   },
   "devDependencies": {
     "@types/node": "^20.11.25",
