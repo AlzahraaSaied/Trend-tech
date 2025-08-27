@@ -1,0 +1,12 @@
+.cursorPointer{
+  cursor:pointer;
+}
+.footer-dark {
+  background-color: black;
+  color: white !important;
+}
+p{
+  color:  #6c757d !important;
+  font-size: 1rem;
+  font-weight: 500;
+}
